@@ -1,0 +1,30 @@
+= Changelog archive =
+
+== 1.0.3 ==
+
+Release date: 2018-12-28
+
+* Updated version number correctly.
+* Bugfix with encodings after link removal in rendering engine.
+
+== 1.0.2 ==
+
+Release date: 2018-12-28
+
+* Added and modified URLs in the README file.
+* Removal of advertorial codes in the embeddings.
+
+== 1.0.1 ==
+
+Release date: 2018-12-28
+
+* Added icon.
+* Added a list of embeddable URLs.
+* Minor filename changes.
+* Shorter plugin description.
+
+== 1.0.0 ==
+
+Release date: 2018-12-28
+
+* Initial version.
